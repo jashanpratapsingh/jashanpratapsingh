@@ -80,8 +80,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://x.com/jashanpratap"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
-  <a href="https://linkedin.com/in/jashanpratap"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="https://x.com/jashandotsol"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
+  <a href="https://linkedin.com/in/jashanpratapsingh"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
   <a href="mailto:jashan@chainlaunch.xyz"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
   <a href="https://github.com/jashanpratapsingh"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
 </p>
